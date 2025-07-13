@@ -1,18 +1,104 @@
-<h1 align="center">Hi 👋, I'm Rick G.</h1>
-<h3 align="center">An CS Student at EPITA</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rickholaaa&label=Profile%20views&color=0e75b6&style=flat" alt="rickholaaa" /> </p>
+# Hi there, I'm Rick Gao 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rickgao03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rickgao03" height="30" width="40" /></a>
+<img src="https://komarev.com/ghpvc/?username=rickholaaa&label=Profile%20views&color=4361ee&style=for-the-badge" alt="Profile views" />
+
+### 🎓 Master's Student in Computer Science at EPITA
+**Specializing in Machine Learning & Computer Vision** • Based in Paris 🇫🇷
+
+*Currently seeking an end-of-studies internship in Machine Learning or Software Engineering starting February 2026*
+
+---
+
+## Experience
+
+**Data Engineer Intern** @ [Napta](https://napta.io) *(Sept 2024 - Feb 2025)*
+- Developed ETL pipelines using Airflow, Python, and AWS S3
+- Built API-based data connectors and improved monitoring tools
+
+**Data Analyst Intern** @ [Mercedes-Benz & smart - Como](https://como.fr/) *(May 2023 - Aug 2023)*
+- Developed Power BI dashboards and automated reporting with Python
+- Built OCR-based automation scripts for ERP system integration
+
+---
+
+## Tech Stack
+
+**Languages & Frameworks**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,scala" alt="Programming Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+**Machine Learning & Data**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="ML Frameworks" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rickholaaa&show_icons=true&locale=en&layout=compact" alt="rickholaaa" /></p>
+**Tools & Technologies**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,vim,aws" alt="Tools" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rickholaaa&show_icons=true&locale=en" alt="rickholaaa" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rickholaaa&" alt="rickholaaa" /></p>
+## Featured Projects
+
+### Movie Script Classification & Generation
+- Built NLP pipelines for multi-label classification on 37k movie scripts
+- Applied Naive Bayes, FFNN, RNN, and fine-tuned GPT-2
+
+### Kuaishou Video Recommender System  
+- Developed recommender system on 12M user-video interactions using SVD
+- Evaluation with Precision@K, NDCG@K, and diversity metrics
+
+### Ship Image Classification
+- Trained CNN models with TensorFlow/Keras for ship type classification
+- Applied data augmentation and GPU acceleration
+
+### PING IDE - Educational Platform
+- Full-stack web platform for interactive Python learning (React + Java Quarkus + Flask)
+
+### Tiger Compiler & 42sh Shell
+- Built complete compiler for Tiger language in C++
+- Implemented POSIX shell from scratch in C
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rickholaaa&show_icons=true&theme=transparent&title_color=4361ee&icon_color=4361ee&text_color=333&bg_color=ffffff&border_color=e1e8ed" alt="Rick's GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rickholaaa&layout=compact&theme=transparent&title_color=4361ee&text_color=333&bg_color=ffffff&border_color=e1e8ed" alt="Most Used Languages" />
+</div>
+
+---
+
+## Languages
+
+🇫🇷 **French** - Native  
+🇬🇧 **English** - Professional (TOEIC 880)  
+🇨🇳 **Chinese (Mandarin)** - Conversational  
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://linkedin.com/in/rickgao03" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-4361ee?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:contact@rick-gao.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-4361ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+</div>
